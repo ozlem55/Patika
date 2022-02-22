@@ -1,0 +1,16 @@
+C:\Users\ozlem\source\repos\StaticSinifveÜyeler\StaticSinifveÜyeler\bin\Debug\net5.0\StaticSinifveÜyeler.exe
+C:\Users\ozlem\source\repos\StaticSinifveÜyeler\StaticSinifveÜyeler\bin\Debug\net5.0\StaticSinifveÜyeler.deps.json
+C:\Users\ozlem\source\repos\StaticSinifveÜyeler\StaticSinifveÜyeler\bin\Debug\net5.0\StaticSinifveÜyeler.runtimeconfig.json
+C:\Users\ozlem\source\repos\StaticSinifveÜyeler\StaticSinifveÜyeler\bin\Debug\net5.0\StaticSinifveÜyeler.runtimeconfig.dev.json
+C:\Users\ozlem\source\repos\StaticSinifveÜyeler\StaticSinifveÜyeler\bin\Debug\net5.0\StaticSinifveÜyeler.dll
+C:\Users\ozlem\source\repos\StaticSinifveÜyeler\StaticSinifveÜyeler\bin\Debug\net5.0\ref\StaticSinifveÜyeler.dll
+C:\Users\ozlem\source\repos\StaticSinifveÜyeler\StaticSinifveÜyeler\bin\Debug\net5.0\StaticSinifveÜyeler.pdb
+C:\Users\ozlem\source\repos\StaticSinifveÜyeler\StaticSinifveÜyeler\obj\Debug\net5.0\StaticSinifveÜyeler.csproj.AssemblyReference.cache
+C:\Users\ozlem\source\repos\StaticSinifveÜyeler\StaticSinifveÜyeler\obj\Debug\net5.0\StaticSinifveÜyeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozlem\source\repos\StaticSinifveÜyeler\StaticSinifveÜyeler\obj\Debug\net5.0\StaticSinifveÜyeler.AssemblyInfoInputs.cache
+C:\Users\ozlem\source\repos\StaticSinifveÜyeler\StaticSinifveÜyeler\obj\Debug\net5.0\StaticSinifveÜyeler.AssemblyInfo.cs
+C:\Users\ozlem\source\repos\StaticSinifveÜyeler\StaticSinifveÜyeler\obj\Debug\net5.0\StaticSinifveÜyeler.csproj.CoreCompileInputs.cache
+C:\Users\ozlem\source\repos\StaticSinifveÜyeler\StaticSinifveÜyeler\obj\Debug\net5.0\StaticSinifveÜyeler.dll
+C:\Users\ozlem\source\repos\StaticSinifveÜyeler\StaticSinifveÜyeler\obj\Debug\net5.0\ref\StaticSinifveÜyeler.dll
+C:\Users\ozlem\source\repos\StaticSinifveÜyeler\StaticSinifveÜyeler\obj\Debug\net5.0\StaticSinifveÜyeler.pdb
+C:\Users\ozlem\source\repos\StaticSinifveÜyeler\StaticSinifveÜyeler\obj\Debug\net5.0\StaticSinifveÜyeler.genruntimeconfig.cache
